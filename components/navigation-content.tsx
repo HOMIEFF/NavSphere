@@ -152,7 +152,7 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
                   size="icon"
                   className="hover:bg-accent hover:text-accent-foreground"
                 >
-                  <WordPress className="h-5 w-5" />
+                  <GitHub className="h-5 w-5" />
                 </Button>
               </Link>
               <Link

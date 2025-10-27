@@ -145,7 +145,7 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
                 href="https://bkfeng.vvvv.ee"
                 target="_blank"
                 rel="noopener noreferrer"
-                aria-label="访问站长博客"
+                aria-label="访问站长的博客"
               >
                 <Button
                   variant="ghost"

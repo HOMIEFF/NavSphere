@@ -142,7 +142,7 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
             <div className="flex items-center gap-1">
               <ModeToggle />
               <Link
-                href="https://bkfeng.vvvv.ee"
+                href="https://bkfeng.vvvv.ee/"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="访问站长的博客"

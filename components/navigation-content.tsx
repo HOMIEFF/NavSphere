@@ -142,17 +142,17 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
             <div className="flex items-center gap-1">
               <ModeToggle />
               <Link
-                href="https://bkfeng.vvvv.ee/"
+                href="https://github.com/tianyaxiang/NavSphere"
                 target="_blank"
                 rel="noopener noreferrer"
-                aria-label="访问站长的博客"
+                aria-label="访问 GitHub 仓库"
               >
                 <Button
                   variant="ghost"
                   size="icon"
                   className="hover:bg-accent hover:text-accent-foreground"
                 >
-                  <GitHub className="h-5 w-5" />
+                  <Github className="h-5 w-5" />
                 </Button>
               </Link>
               <Link

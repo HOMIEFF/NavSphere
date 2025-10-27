@@ -145,7 +145,7 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
                 href="https://bkfeng.vvvv.ee"
                 target="_blank"
                 rel="noopener noreferrer"
-                aria-label="访问 GitHub 仓库"
+                aria-label="访问站长博客"
               >
                 <Button
                   variant="ghost"
@@ -170,10 +170,10 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
                 </Button>
               </Link>
               <Link
-                href="https://mp.weixin.qq.com/s/90LUmKilfLZfc5L63Ej3Sg"
+                href="https://bkfeng.vvvv.ee"
                 target="_blank"
                 rel="noopener noreferrer"
-                aria-label="查看帮助文档"
+                aria-label="访问站长博客"
               >
                 <Button
                   variant="ghost"

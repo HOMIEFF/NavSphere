@@ -42,7 +42,7 @@ export default function RootLayout({
               gtag('config', 'G-QG9PGG4K13');
             `,
           }}
-
+        />
         {/* 网站统计代码 */}
         <Script
           strategy="afterInteractive"
@@ -57,7 +57,6 @@ export default function RootLayout({
               })();
             `,
           }}
-          
         />
       </head>
       <body suppressHydrationWarning>

@@ -6,6 +6,9 @@ body {
   font-weight: normal;
 }
 
+<!-- 网站打字粒子效果 -->
+<script src="/styles/dazilizi.js"></script>
+
 @import 'tailwindcss';
 
 @custom-variant dark (&:is(.dark *));

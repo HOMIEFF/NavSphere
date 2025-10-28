@@ -14,7 +14,16 @@
           "icon": "Cloud",
           "description": "服务器、数据库等",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1761631952154",
+              "title": "Dash",
+              "href": "https://cloudflare.com",
+              "description": "访问 dash.cloudflare.com",
+              "icon": "/assets/favicon_1761631957505.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     }

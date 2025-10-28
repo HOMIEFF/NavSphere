@@ -7,7 +7,16 @@
       "description": "站长自己常用URL",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "dcd4c915-99c2-40d0-a72e-7accd89e3dd5",
+          "title": "上云",
+          "icon": "Cloud",
+          "description": "服务器、数据库等",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }

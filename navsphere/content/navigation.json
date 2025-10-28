@@ -12,7 +12,7 @@
           "title": "搜索 - Microsoft 必应",
           "href": "https://cn.bing.com/",
           "description": "使用 Microsoft 必应进行搜索，并利用 AI 的强大功能查找信息、浏览网页、图像、视频、地图等。为永远充满好奇心的人提供的智能搜索引擎。",
-          "icon": "/assets/favicon_1761632541825.png",
+          "icon": "blob:https://fenghub.webn.cc/57bf1a6a-12f7-4775-a28a-799ade646715",
           "enabled": true
         }
       ],

@@ -7,25 +7,7 @@
       "description": "站长自己常用URL",
       "enabled": true,
       "items": [],
-      "subCategories": [
-        {
-          "id": "dcd4c915-99c2-40d0-a72e-7accd89e3dd5",
-          "title": "上云",
-          "icon": "Cloud",
-          "description": "服务器、数据库等",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1761631952154",
-              "title": "Dash",
-              "href": "https://dash.cloudflare.com/",
-              "description": "访问 dash.cloudflare.com",
-              "icon": "/assets/favicon_1761632093574.png",
-              "enabled": true
-            }
-          ]
-        }
-      ]
+      "subCategories": []
     }
   ]
 }

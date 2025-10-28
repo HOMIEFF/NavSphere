@@ -2,8 +2,8 @@
   "navigationItems": [
     {
       "id": "1761631861717",
-      "title": "个人常用",
-      "icon": "Star",
+      "title": "搜索引擎",
+      "icon": "Search",
       "description": "站长自己常用URL",
       "enabled": true,
       "items": [

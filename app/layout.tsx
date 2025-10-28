@@ -42,6 +42,22 @@ export default function RootLayout({
               gtag('config', 'G-QG9PGG4K13');
             `,
           }}
+
+        {/* 网站统计代码 */}
+        <Script
+          strategy="afterInteractive"
+          dangerouslySetInnerHTML={{
+            __html: `
+              var _mtj = _mtj || [];
+              (function () {
+                var mtj = document.createElement("script");
+                mtj.src = "https://node90.aizhantj.com:21233/tjjs/?k=layg2n82jf6";
+                var s = document.getElementsByTagName("script")[0];
+                s.parentNode.insertBefore(mtj, s);
+              })();
+            `,
+          }}
+          
         />
       </head>
       <body suppressHydrationWarning>

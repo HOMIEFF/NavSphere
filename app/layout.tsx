@@ -74,8 +74,12 @@ export default function RootLayout({
           <Toaster />
         </ThemeProvider>
 
-<!-- 网站打字粒子效果 -->
-<script src="/styles/dazilizi.js"></script>
+        {/* 网站打字粒子效果 - 添加在这里 */}
+        <Script
+          id="dazilizi-effect"
+          src="/styles/dazilizi.js"
+          strategy="afterInteractive"
+        />
         
       </body>
     </html>

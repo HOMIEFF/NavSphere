@@ -1,3 +1,11 @@
+@import url('https://fontsapi.zeoseven.com/519/main/result.css');
+@import 'tailwindcss';
+
+body {
+  font-family: "MaoKenWangXingYuan";
+  font-weight: normal;
+}
+
 @import 'tailwindcss';
 
 @custom-variant dark (&:is(.dark *));

@@ -73,6 +73,10 @@ export default function RootLayout({
           </Providers>
           <Toaster />
         </ThemeProvider>
+
+<!-- 网站打字粒子效果 -->
+<script src="/styles/dazilizi.js"></script>
+        
       </body>
     </html>
   )

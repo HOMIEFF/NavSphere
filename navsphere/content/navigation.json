@@ -49,6 +49,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1761754160720",
+      "title": "热门链接",
+      "icon": "BarChart",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }

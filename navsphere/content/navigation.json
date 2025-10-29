@@ -56,7 +56,16 @@
       "icon": "BarChart",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1761754188119_g08e5oos3",
+          "title": "www.douyin.com",
+          "href": "https://www.douyin.com/",
+          "description": "",
+          "icon": "/assets/favicon_1761754185265.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]

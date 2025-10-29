@@ -38,6 +38,14 @@
           "description": "访问 www.google.com",
           "icon": "/assets/favicon_1761664544524.png",
           "enabled": true
+        },
+        {
+          "id": "site_1761696877581_gny31xovd",
+          "title": "Yandex — fast Internet search",
+          "href": "https://yandex.com/",
+          "description": "Yandex finds anything: webpages, images, music, good. Solve any problem — from everyday to a scientific one. Search by text, voice or image.",
+          "icon": "/assets/favicon_1761696869466.png",
+          "enabled": true
         }
       ],
       "subCategories": []

@@ -67,6 +67,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1761754354476",
+      "title": "骇客科技",
+      "icon": "Shield",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }

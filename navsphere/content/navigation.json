@@ -74,7 +74,16 @@
       "icon": "Shield",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1761754405070_qmw5xk4k1",
+          "title": "Link3-用一个链接，聚合、分享你的所有信息",
+          "href": "https://link3.cc/user",
+          "description": "制作你的主页|数字名片|导航页。聚合你的所有信息，到一个永久链接、二维码、个人网页",
+          "icon": "/assets/favicon_1761754400558.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
